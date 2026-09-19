@@ -1,5 +1,5 @@
 ---
-name: job-deep-dive
+name: 求人候補深掘り
 description: Deep-dives newly-found job candidates sitting in the Notion "🏢 企業候補！（Claude Code連携用）" database (未深掘り status) — researches each company and writes a full vision-fit analysis into its Notion row, then marks it 深掘り済み. Use this whenever the user says something short like "深掘りして", "企業候補見て", "候補チェックして", "candidates deep dive", "コードに連携してください", or otherwise implies that Cowork's automated job-screening routine has found something and it's time to research the new candidates — even if they don't spell out the full procedure. This is the standing follow-up task for the user's ongoing 転職 (job search) support in this repo.
 ---
 
